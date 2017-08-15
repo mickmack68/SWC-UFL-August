@@ -1,2 +1,4 @@
 Cold nd dry, but everything is his favorite color.
 This is a new change to the file to commit more
+This is the next change to see more git features
+
